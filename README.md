@@ -2,6 +2,10 @@
 
 A Python library providing utilities for parsing and accessing Discord emojis with advanced functionality such as emoji enumeration and dynamic handling.
 
+![PyPI - Version](https://img.shields.io/pypi/v/discordemojiparser?logo=pypi&logoColor=yellow&logoSize=auto&label=version&labelColor=blue&color=green) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/discordemojiparser?logo=python&label=python%20versions&logoColor=yellow&logoSize=auto&labelColor=blue&color=green)
+![PyPI - License](https://img.shields.io/pypi/l/discordemojiparser?labelColor=blue&color=green)
+
+
 ## Features
 
 - Parse individual or multiple Discord emojis from a string.
@@ -13,10 +17,10 @@ A Python library providing utilities for parsing and accessing Discord emojis wi
 
 ## Installation
 
-This project uses Poetry for dependency management. To install, first ensure Poetry is installed, then run:
+This project uses Poetry for dependency management. The easiest way to instal is with `pip`
 
 ```sh
-poetry install
+pip install discordemojiparser
 ```
 
 ## Usage
@@ -128,7 +132,8 @@ discordemojiparser/
 
 **Dylan Magar** ("DJ Stomp")
 - GitHub: [@DJStompZone](https://github.com/djstompzone)
+- ![Discord](https://img.shields.io/discord/599808270655291403?logo=discord&label=StompZone%20Discord)
 
 ## License
 
-MIT License (see LICENSE file)
+MIT License (see [LICENSE](LICENSE) file)
