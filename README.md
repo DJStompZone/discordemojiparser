@@ -2,8 +2,8 @@
 
 A Python library providing utilities for parsing and accessing Discord emojis with advanced functionality such as emoji enumeration and dynamic handling.
 
-![PyPI - Version](https://img.shields.io/pypi/v/discordemojiparser?logo=pypi&logoColor=yellow&logoSize=auto&label=version&labelColor=blue&color=green) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/discordemojiparser?logo=python&label=python%20versions&logoColor=yellow&logoSize=auto&labelColor=blue&color=green)
-![PyPI - License](https://img.shields.io/pypi/l/discordemojiparser?labelColor=blue&color=green)
+![PyPI - Version](https://img.shields.io/pypi/v/discordemojiparser?logo=pypi&logoColor=yellow&logoSize=auto&label=version&labelColor=blue&color=green&cacheSeconds=300) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/discordemojiparser?logo=python&label=python%20versions&logoColor=yellow&logoSize=auto&labelColor=blue&color=green&cacheSeconds=300)
+![PyPI - License](https://img.shields.io/pypi/l/discordemojiparser?labelColor=blue&color=green&cacheSeconds=300)
 
 
 ## Features
