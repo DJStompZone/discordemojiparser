@@ -127,7 +127,7 @@ discordemojiparser/
 ## Author
 
 **Dylan Magar** ("DJ Stomp")
-GitHub: [@DJStompZone](https://github.com/djstompzone)
+- GitHub: [@DJStompZone](https://github.com/djstompzone)
 
 ## License
 
